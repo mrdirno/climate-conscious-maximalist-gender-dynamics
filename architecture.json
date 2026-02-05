@@ -1,0 +1,160 @@
+{
+  "book_id": "climate-conscious-maximalist-gender-dynamics",
+  "title": "The Voss Canopy",
+  "tagline": "In a drowning world, the ultimate luxury is control—and the greatest threat is a brother who remembers what the earth feels like.",
+  "target_words": 70000,
+  "actual_words": 74619,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Performative Sustainability vs. Radical Stewardship",
+    "Curated Femininity vs. Feral Masculinity",
+    "Climate as a New Class System",
+    "The Gendered Architecture of Power"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Permanent Tenant",
+      "words": 3100
+    },
+    {
+      "ch": 2,
+      "title": "The Living Archive",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "Sovereign Blue",
+      "words": 3200
+    },
+    {
+      "ch": 4,
+      "title": "The Mycoremediator",
+      "words": 3100
+    },
+    {
+      "ch": 5,
+      "title": "Guilt-Tech",
+      "words": 2800
+    },
+    {
+      "ch": 6,
+      "title": "The Armita Variable",
+      "words": 3300
+    },
+    {
+      "ch": 7,
+      "title": "Carbon Ball",
+      "words": 3000
+    },
+    {
+      "ch": 8,
+      "title": "Bespoke Filtration",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Lyon Gambit",
+      "words": 3200
+    },
+    {
+      "ch": 10,
+      "title": "Anaerobic",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "The Harbour Eye",
+      "words": 2800
+    },
+    {
+      "ch": 12,
+      "title": "Rammed Earth",
+      "words": 3300
+    },
+    {
+      "ch": 13,
+      "title": "The Five Percent",
+      "words": 3000
+    },
+    {
+      "ch": 14,
+      "title": "Sonic Dispersal",
+      "words": 2900
+    },
+    {
+      "ch": 15,
+      "title": "Eco-Rage",
+      "words": 3200
+    },
+    {
+      "ch": 16,
+      "title": "The Canopy's Shadow",
+      "words": 3100
+    },
+    {
+      "ch": 17,
+      "title": "Fungal Bloom",
+      "words": 2800
+    },
+    {
+      "ch": 18,
+      "title": "Debt of Sentiment",
+      "words": 3300
+    },
+    {
+      "ch": 19,
+      "title": "The Exclamation Mark",
+      "words": 3000
+    },
+    {
+      "ch": 20,
+      "title": "Plumbing Diagram",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "Necessary Excess",
+      "words": 3200
+    },
+    {
+      "ch": 22,
+      "title": "The Voss Grey",
+      "words": 3100
+    },
+    {
+      "ch": 23,
+      "title": "Civic Lung Function",
+      "words": 2800
+    },
+    {
+      "ch": 24,
+      "title": "The Price of Nostalgia",
+      "words": 3300
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character from a climate-displaced community confronts Sylvie at one of her curated charity galas, weaponizing the language of 'sustainability' against her.",
+      "Explore a day in the life of Aris, Sylvie's assistant, detailing the emotional labor and moral compromises required to maintain her world.",
+      "Write a flashback chapter showing Sylvie and Kael as children, discovering something in nature that first defined their divergent paths.",
+      "Create a manifesto from Dr. Armita's perspective, outlining the principles of 'Feral Science' versus 'Curation Science'."
+    ],
+    "technical": [
+      "Design a speculative interface for Sylvie's 'exquisite, ruthless architecture of influence'—a dashboard that visualizes carbon credits, social sentiment, and ecological assets as a manipulable game board.",
+      "Model the hydro-engineering 'tweak' Sylvie proposes: create a system diagram showing the levee, the Living Archive's water table, and the 5% flow reduction, with projected impacts on both the fungal bloom and the Riverside Development."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ursula K. Le Guin (anthropological worldbuilding, gender as a social structure)",
+      "William Gibson (cyberpunk aesthetics, corporate neo-language)",
+      "Octavia E. Butler (climate fiction, power dynamics, radical empathy)",
+      "Donna Haraway (cyborg theory, posthumanism, situated knowledges)"
+    ]
+  },
+  "cover_prompt": "A young man with feral, earth-stained hands defiantly cradles a sapling against the chest of his immaculate, silk-clad sister, their tense standoff set within the dripping, bioluminescent interior of a vast, transparent arboreal skyscraper that towers above a drowned city, the scene a clash of organic wildness and sterile, curated luxury. This intimate, charged confrontation unfolds in a vertical garden atrium where engineered orchids twine with invasive moss, overlooking a perpetual storm through panoramic glass, capturing the novel's core tension between performative eco-luxury and radical, muddy stewardship. Rendered in the hyper-detailed, allegorical style of Remedios Varo with the lush, climatic maximalism of Anna Dittmann and the gendered architectural tension of Soey Milk, blending symbolic surrealism with breathtaking environmental detail. Centered, book-cover composition with a dramatic low-angle shot that emphasizes the towering, fragile canopy structure and the siblings' power dynamic, their figures framed by the intricate geometry of the building and the chaotic beauty of the encroaching wild. Dramatic chiaroscuro lighting with cold, artificial neon accents from data-panels cutting through the warm, bioluminescent glow of the flora, palette of deep emerald greens, bruised purples, silvery metallics, and stark, clinical white contrasted with rich, earthy browns and vibrant mossy golds. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
