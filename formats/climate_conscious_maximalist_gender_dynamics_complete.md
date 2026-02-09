@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The storm was a week old and had settled into the city’s bones like a permanent tenant. It wasn’t a screaming fury anymore, just a vast, weeping pressure, a grey silk shroud stitched with silver needles of rain. From the penthouse terrace of the Aethelgard Tower, the world below was a Monet painted in puke-green and gunmetal, the famous skyline softened into a series of smudged, glowing thumbprints. The air tasted of wet concrete and ozone, with the faint, sweet-rot undertone of flooded basements and compromised drains.
@@ -100,6 +102,8 @@ Aris’s eyebrows lifted a millimeter. “Field-appropriate?”
 
 “I’m going,” she said, her eyes on the smudged horizon where the city met the rising sea, “to visit my brother’s miracle.”
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The suit was not field-appropriate. It was a manifesto in matte black, biomimetic mesh, and articulated plating that whispered as Sylvie moved. It made her look like a predatory insect from a sustainable future. The transport Aris had secured was an electric amphibious crawler, a hulking, windowless thing that moved through the flooded downtown streets with the arrogant grace of a beetle on water.
@@ -187,6 +191,8 @@ As they left the chamber, the heavy door sealing the purple glow away, Kael fell
 Sylvie didn’t answer. She was re-calibrating. The smell of the earth was in her nose, the image of the pulsing, cleaning life burned into her mind. She had come to assess an asset and had instead encountered a language. And Sylvie Voss was, above all, a consummate linguist. She would learn this language. She would master it. Then, she would see what could truly be built with it.
 
 Outside, the rain had begun again. But in the crawler, as Aris began listing the afternoon’s postponed commitments, Sylvie was quiet. She was thinking about songs, and symphonies, and the strange, unsettling taste of partnership.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
