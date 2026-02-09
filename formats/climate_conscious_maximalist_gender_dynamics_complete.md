@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The storm was a week old and had settled into the city’s bones like a permanent tenant. It wasn’t a screaming fury anymore, just a vast, weeping pressure, a grey silk shroud stitched with silver needles of rain. From the penthouse terrace of the Aethelgard Tower, the world below was a Monet painted in puke-green and gunmetal, the famous skyline softened into a series of smudged, glowing thumbprints. The air tasted of wet concrete and ozone, with the faint, sweet-rot undertone of flooded basements and compromised drains.
+Lena’s world ended not with a bang but with a bidding war. Her penthouse auctioneer’s voice, slick as solar-glass, climbed over the desperate chorus of street-level protests—a duet of gavel-thump and heartbeat, of carbon credits and the coppery taste of real fear rising from the gridlocked boulevard below.
+
+
 
 Inside, the air was different. It tasted of money.
 
